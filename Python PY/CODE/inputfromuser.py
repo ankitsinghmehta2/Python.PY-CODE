@@ -12,3 +12,9 @@ print(b)
 
 c = eval(input("Enter an expression: "))
 print(c)
+\
+# example
+# add two number from user
+num=int(input("enter the 1 number : "))
+num2=int(input("enter the 2 number : "))
+print("the sum of twonumberis:",num+num2)
