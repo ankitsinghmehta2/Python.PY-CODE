@@ -11,3 +11,6 @@ print(ord(b))
 
 a=65
 print(chr(a))
+
+c=66
+print(chr(a))
