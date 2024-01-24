@@ -5,7 +5,7 @@ else:
     print("You are not eligible to vote yet.")
 
 
-num1=float(input("Enter the First Number: "))
+num1=float(input("Enter the First number: "))
 num2=float(input("Enter the Second number: "))
 num3=float(input("enter the third number: "))
 if num1>=num2 and num1 >= num3:
