@@ -1,3 +1,4 @@
+
 palamdrom
 
 y = x
