@@ -11,7 +11,6 @@ for i in range(5):
 # 3
 # 4
 
-
 # for i in range(startting value , endvalue, space/gap value)  
 for i in range(5,0,-1):
     print(i)
