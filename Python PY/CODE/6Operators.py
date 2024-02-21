@@ -1,5 +1,4 @@
-
-# Arithmetic Operators:
+ Arithmetic Operators:
 # +   # Addition
 # -   # Subtraction
 # *   # Multiplication
