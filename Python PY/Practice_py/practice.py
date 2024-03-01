@@ -1,6 +1,7 @@
-
+palamdrom 
+123
+321
 palamdrom
-
 y = x
 r = 0
 
