@@ -1,4 +1,4 @@
-# In Python, a for loop is used to iterate over a sequence (such as a list, tuple, string, or range) or other iterable objects.
+ # In Python, a for loop is used to iterate over a sequence (such as a list, tuple, string, or range) or other iterable objects.
     
 for i in range(5):
     print(i)
